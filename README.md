@@ -1,0 +1,2 @@
+# personal-information-manager
+Build a Personal Information Manager that stores and displays your name, age, city, and hobbies with formatted output
